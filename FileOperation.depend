@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1512695588 source:e:\大三上学期\操作系统\实验\fileoperation\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1512698059 source:e:\大三上学期\操作系统\实验\fileoperation\empty_block.c
+	<stdio.h>
+	<stdlib.h>
+
+1515939730 source:e:\大三上学期\操作系统\课设\fileoperation\empty_block.c
+	<stdio.h>
+	<stdlib.h>
+	"empty_block.h"
+
+1515927368 source:e:\大三上学期\操作系统\课设\fileoperation\file_allocation_table.c
+	<stdio.h>
+	<stdlib.h>
+	"empty_block.h"
+	"struct_type.h"
+
+1515930263 e:\大三上学期\操作系统\课设\fileoperation\empty_block.h
+	<stdio.h>
+	"struct_type.h"
+
+1515943453 source:e:\大三上学期\操作系统\课设\fileoperation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<string.h>
+	"struct_type.h"
+	"empty_block.h"
+	"user.h"
+	"my_file.h"
+
+1515943387 e:\大三上学期\操作系统\课设\fileoperation\user.h
+	<stdio.h>
+	"struct_type.h"
+
+1515920048 source:e:\大三上学期\操作系统\课设\fileoperation\user.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"user.h"
+	"my_file.h"
+	"struct_type.h"
+
+1515909941 e:\大三上学期\操作系统\课设\fileoperation\my_file.h
+	<stdio.h>
+	<string.h>
+	"struct_type.h"
+
+1515942466 source:e:\大三上学期\操作系统\课设\fileoperation\my_file.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"my_file.h"
+	"struct_type.h"
+
+1515942851 e:\大三上学期\操作系统\课设\fileoperation\struct_type.h
+	<stdio.h>
+	<string.h>
+
